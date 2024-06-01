@@ -2,7 +2,7 @@ import React from 'react'
 
 function Carousal() {
   return (
-    <div>
+    <div> 
       <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel" style={{objectFit:"contain !important"}}>
   <div className="carousel-inner" id='carousel'>
     <div className="carousel-caption" style={{zIndex:"10"}}>
