@@ -51,7 +51,7 @@ function Footer() {
 
             {/* Linkedin */}
             <Link
-              to="#!"
+              to="#!" 
               className="btn text-white btn-floating m-1"
               style={{ backgroundColor: '#0082ca' }}
               role="button"
